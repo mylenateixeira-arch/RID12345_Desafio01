@@ -88,14 +88,10 @@
 }
 
 .seta{
-  margin-top: 43px;
+  margin-top: 15%;
   cursor: pointer;
 }
 
-#seta-esquerda{
-  margin-top: 63px;
-  
-}
 
 .seta:hover{
   transform: translateY(-7px);
